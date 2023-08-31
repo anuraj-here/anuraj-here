@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuraj-here
-- 👀 I’m interested in programming and graphics designing
-- 🌱 I’m currently learning engineering 
-- 💞️ I’m looking to collaborate with some graphics designers
+- 👀 I’m interested in Products
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate with some Product and Data folks
 - 📫 How to reach me - DM on instagram
 
 <!---
